@@ -102,5 +102,3 @@ assignees: ''
 
 ### Not relevant
 Drag any checkboxes not relevant below and tick them
-
-
