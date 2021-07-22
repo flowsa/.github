@@ -28,7 +28,8 @@ assignees: ''
 - **Link:**
 
 ### Design
-- **Link:**
+- **UI Design Link:**
+- **Style Guide Link:**
 
 ### Technical Considerations
 
