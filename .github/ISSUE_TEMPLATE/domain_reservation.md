@@ -1,9 +1,10 @@
 ---
 name: Reserve a domain
 about: A boilerplate for reserving and purchasing a domain
-title: 'Domain reservation'
+title: Domain reservation
 labels: ''
 assignees: ''
+
 ---
 
 ### Domain details
