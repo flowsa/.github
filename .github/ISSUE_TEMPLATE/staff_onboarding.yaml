@@ -83,6 +83,9 @@ body:
     attributes:
       label: What steps have been completed (these will be ticked by IT later)
       options:
+        - label: Flow machine registered on IT registry under staff member name and insured (if new)
+        - label: Flow hardware acceptance form received
+        - label: Acceptance of IT policy form received
         - label: Gsuite account created
         - label: Last Pass account created
         - label: Creative Suite account created (if required)
@@ -92,5 +95,6 @@ body:
         - label: Added to Flow staff group and daily staff meeting
         - label: Google Docs training and onboarding completed
         - label: Google Mail and Chat training and onboarding completed
+        - label: Google Meet training completed
         - label: LastPass training and onboarding completed
         - label: Github training and onboarding completed
