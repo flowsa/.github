@@ -86,9 +86,11 @@ body:
         - label: Gsuite account created
         - label: Last Pass account created
         - label: Creative Suite account created (if required)
+        - label: Github account created
         - label: Timesponge account created
         - label: Timesponge capacity set
         - label: Added to Flow staff group and daily staff meeting
         - label: Google Docs training and onboarding completed
-        - label: Google Mail training and onboarding completed
-        - label: LastPass training and onboarding completed        
+        - label: Google Mail and Chat training and onboarding completed
+        - label: LastPass training and onboarding completed
+        - label: Github training and onboarding completed
