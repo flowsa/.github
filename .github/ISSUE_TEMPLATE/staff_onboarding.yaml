@@ -21,7 +21,7 @@ body:
       label: Personal email address
       placeholder: ex. example@example.com
     validations:
-      required: false
+      required: true
   - type: input
     id: mobile_number
     attributes:
