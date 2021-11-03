@@ -77,5 +77,18 @@ body:
       label: Employment start date 
       placeholder: ex. 1 Jan 2022
     validations:
-      required: false        
-   
+      required: false    
+  - type: checkboxes
+    id: checks-completed
+    attributes:
+      label: What steps have been completed (these will be ticked by IT later)
+      options:
+        - label: Gsuite account created
+        - label: Last Pass account created
+        - label: Creative Suite account created (if required)
+        - label: Timesponge account created
+        - label: Timesponge capacity set
+        - label: Added to Flow staff group and daily staff meeting
+        - label: Google Docs training and onboarding completed
+        - label: Google Mail training and onboarding completed
+        - label: LastPass training and onboarding completed        
