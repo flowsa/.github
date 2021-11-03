@@ -87,6 +87,8 @@ body:
         - label: Flow hardware acceptance form received
         - label: Acceptance of IT policy form received
         - label: Gsuite account created
+        - label: Gsuite two factor enabled (https://myaccount.google.com/security)
+        - label: Gsuite personal profile and picture set (https://myaccount.google.com/profile)
         - label: Last Pass account created
         - label: Creative Suite account created (if required)
         - label: Github account created
