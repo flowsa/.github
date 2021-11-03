@@ -1,7 +1,6 @@
 name: Staff onboarding
 description: Add a new staff member to Flow!
-title: "[Bug]: "
-labels: ["bug", "triage"]
+title: "[New staff]: "
 assignees:
   - octocat
 body:
