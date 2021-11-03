@@ -10,53 +10,80 @@ body:
       value: |
         Thanks for taking the time to fill out this bug report!
   - type: input
-    id: contact
+    id: full_name
     attributes:
-      label: Contact Details
-      description: How can we get in touch with you if we need more info?
-      placeholder: ex. email@example.com
+      label: Full name
+      placeholder: ex. Joe Soap
     validations:
       required: false
-  - type: textarea
-    id: what-happened
+  - type: input
+    id: email
     attributes:
-      label: What happened?
-      description: Also tell us, what did you expect to happen?
-      placeholder: Tell us what you see!
-      value: "A bug happened!"
+      label: Personal email address
+      placeholder: ex. example@example.com
     validations:
-      required: true
-  - type: dropdown
-    id: version
+      required: false
+  - type: input
+    id: mobile_number
     attributes:
-      label: Version
-      description: What version of our software are you running?
-      options:
-        - 1.0.2 (Default)
-        - 1.0.3 (Edge)
+      label: Mobile number
+      placeholder: ex. 27 83 393 3333
     validations:
-      required: true
-  - type: dropdown
-    id: browsers
+      required: false   
+  - type: input
+    id: address
     attributes:
-      label: What browsers are you seeing the problem on?
-      multiple: true
-      options:
-        - Firefox
-        - Chrome
-        - Safari
-        - Microsoft Edge
-  - type: textarea
-    id: logs
+      label: Address 
+      placeholder: ex. 884 Main Rd, Rosebank, Johannesburg
+    validations:
+      required: false         
+  - type: input
+    id: software_requirements
     attributes:
-      label: Relevant log output
-      description: Please copy and paste any relevant log output. This will be automatically formatted into code, so no need for backticks.
-      render: shell
-  - type: checkboxes
-    id: terms
+      label: Special software requirements 
+      placeholder: ex. Creative Cloud, Invision
+    validations:
+      required: false           
+  - type: input
+    id: contracted_number_of_hours
     attributes:
-      label: Code of Conduct
-      description: By submitting this issue, you agree to follow our [Code of Conduct](https://example.com)
-      options:
-        - label: I agree to follow this project's Code of Conduct
-          required: true
+      label: Contracted no. of hours per week
+      placeholder: ex. 40
+    validations:
+      required: false           
+  - type: input
+    id: hdi_status
+    attributes:
+      label: HDI Status
+      placeholder: ex. Black male, white female etc
+    validations:
+      required: false         
+  - type: input
+    id: date_of_birth
+    attributes:
+      label: HDI Status
+      placeholder: ex. 6 June 1983
+    validations:
+      required: false        
+  - type: input
+    id: team
+    attributes:
+      label: Team
+      placeholder: ex. Design
+    validations:
+      required: false  
+  - type: input
+    id: team
+    attributes:
+      label: Team
+      placeholder: ex. Design
+    validations:
+      required: false  
+  - type: input
+    id: employment_stats
+    attributes:
+      label: Employment start date 
+      placeholder: ex. 1 Jan 2022
+    validations:
+      required: false        
+   
