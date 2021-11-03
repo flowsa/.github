@@ -2,7 +2,7 @@ name: Staff onboarding
 description: Add a new staff member to Flow!
 title: "[New staff]: "
 assignees:
-  - octocat
+  - chadsoo
 body:
   - type: markdown
     attributes:
