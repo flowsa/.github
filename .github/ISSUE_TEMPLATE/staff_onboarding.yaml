@@ -60,7 +60,7 @@ body:
   - type: input
     id: date_of_birth
     attributes:
-      label: HDI Status
+      label: Date of Birth
       placeholder: ex. 6 June 1983
     validations:
       required: false        
