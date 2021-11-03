@@ -73,14 +73,7 @@ body:
     validations:
       required: false  
   - type: input
-    id: team
-    attributes:
-      label: Team
-      placeholder: ex. Design
-    validations:
-      required: false  
-  - type: input
-    id: employment_stats
+    id: employment_starts
     attributes:
       label: Employment start date 
       placeholder: ex. 1 Jan 2022
