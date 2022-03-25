@@ -77,6 +77,8 @@ assignees: ''
 
 - [ ] Global variables - company meta data updated: phone number, social media accounts
 - [ ] Global variables: social network platforms are all set
+- [ ] Ensure Forgot Password is functioning as expected
+- [ ] Generate random password and send to IT for addition to LastPass
 
 ### GDPR / POPI 
 - [ ] SSL certificate
