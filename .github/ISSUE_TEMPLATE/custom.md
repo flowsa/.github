@@ -1,6 +1,6 @@
 ---
-name: Create a website QA checklist
-about: QA checklist default
+name: Website Go Live Checklist
+about: Website Go Live Checklist
 title: ''
 labels: ''
 assignees: ''
