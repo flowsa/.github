@@ -24,12 +24,6 @@ assignees: ''
 - [ ] Does the footer include copyright with company name. Is the punctuation correct?
 
 
-### STAGING:  Campaign Monitor  (if applicable)
-
-- [ ] Does the subscribe form work and log people’s details in the correct subscriber list?
-- [ ] Has thank you page been set up on the website?
-
-
 ### STAGING: GDPR / POPI 
 
 - [ ] Cookie Opt in added
