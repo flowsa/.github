@@ -80,5 +80,10 @@ assignees: ''
 - [ ] Check hosting is on schedule and will be billed
 - [ ] Broken Link check
 
+### LIVE:  Campaign Monitor  (if applicable)
+
+- [ ] Does the subscribe form work and log people’s details in the correct subscriber list?
+- [ ] Has thank you page been set up on the website?
+
 ### Not relevant
 Drag any checkboxes not relevant below and tick them
