@@ -30,8 +30,10 @@ assignees: ''
 
 ### Design/Content
 
-- [ ] Have you performed adequate browser testing - IE Edge (Chrome), Firefox and Safari? No IE unless specified
-- [ ] Does the website work on mobile and stack content correctly?
+- [ ] Have you performed adequate browser testing in all the evergreen desktop browsers: - IE Edge (Chrome), Firefox and Safari?
+- [ ] Have you performed adequate browser testing in all the evergreen mobile iOS browsers: - Chrome, Safari?
+- [ ] Have you performed adequate browser testing in all the evergreen mobile Android browsers: - Chrome, Safari?
+- [ ] Have you checked the responsive behaviour on the in-between tablet breakpoints in portrait/landscape modes?
 - [ ] Has all dummy entries, comments, images and lorem ipsum been removed?
 - [ ] Have you checked that web fonts work and that all the related domains have been whitelisted in TypeKit (or similar)?
 - [ ] Do all headings have consistent casing?
