@@ -1,7 +1,3 @@
-Due date:
-no of hours:
-Log to project:
-
 ---
 name: Bug report
 about: Create a report to help us improve
@@ -10,6 +6,10 @@ labels: ''
 assignees: ''
 
 ---
+
+Due date:
+no of hours:
+Log to project:
 
 **Describe the bug**
 A clear and concise description of what the bug is.
