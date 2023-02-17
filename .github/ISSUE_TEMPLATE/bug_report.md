@@ -1,3 +1,7 @@
+Due date:
+no of hours:
+Log to project:
+
 ---
 name: Bug report
 about: Create a report to help us improve
