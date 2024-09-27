@@ -46,13 +46,6 @@ assignees: ''
 - [ ] Have auto-reponders been set if appropriate?
 - [ ] Has a "Thank you" page been set up on the website?
 
-### LIVE:  Disqus  (if applicable)
-
-- [ ] Is the correct shortname implemented?
-- [ ] Has the moderation process been set up?
-- [ ] Does the client know how to handle comments?
-- [ ] Do links on comment link to the right site?
-
 ### LIVE: CraftCMS Specific  (if applicable)
 
 - [ ] Global variables - company meta data updated: phone number, social media accounts
@@ -68,6 +61,7 @@ assignees: ''
 - [ ] Notify [Sabo Ndlovu](mailto:sabo@flowsa.com) of site going live so that billing can be started.
 - [ ] SSL certificate
 - [ ] Automatic re-directs from HTTP to HTTPS
+- [ ] Has Postmark and DKIM "sender signature" been set up on the domain (to pass spam blocking)
 
 ### LIVE: After going live
 - [ ] Have you added the site to Uptime Robot?
@@ -84,6 +78,7 @@ assignees: ''
 
 - [ ] Does the subscribe form work and log people’s details in the correct subscriber list?
 - [ ] Has thank you page been set up on the website?
+- [ ] Has DKIM "sender signature" been set up on the domain (to pass spam blocking)
 
 ### Not relevant
 Drag any checkboxes not relevant below and tick them
