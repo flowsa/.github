@@ -73,12 +73,28 @@ assignees: ''
 - [ ] Is robots.txt file been set to allow Google etc bots?
 - [ ] Check hosting is on schedule and will be billed
 - [ ] Broken Link check
+- [ ] Cross-Browser Check (Chrome, Safari, and Firefox).
 
 ### LIVE:  Campaign Monitor  (if applicable)
 
 - [ ] Does the subscribe form work and log people’s details in the correct subscriber list?
 - [ ] Has thank you page been set up on the website?
 - [ ] Has DKIM "sender signature" been set up on the domain (to pass spam blocking)
+
+### Webflow Specific
+
+- [ ] Graph Image URL
+- [ ] Ensure favicon and Webclip have been set with the client's logo images 
+- [ ] Ensure custom code implementation.
+
+### Webflow LIVE: Design Consistency
+
+- [ ] Ensure all titles and paragraphs are styled to match the brand.
+- [ ] Utilized standard color names.
+- [ ] Margin and padding to match the design system.
+- [ ] Upload fonts as custom WOFF files or use Google's integrated font API.
+- [ ] Double-check all design elements for alignment, responsiveness
+
 
 ### Not relevant
 Drag any checkboxes not relevant below and tick them
