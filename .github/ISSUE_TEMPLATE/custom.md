@@ -17,6 +17,7 @@ assignees: ''
 - [ ] Setup monthly notification, send to tiffany@flowsa.com
 - [ ] Setup Google Webmaster Tools
 - [ ] Have relevant 301 redirects been created for key pages?
+- [ ] Check top 100 pages by traffic on Google Analytics and ensure each is 301 redirected or resolves to a correct page
 - [ ] Are 404 pages working properly
 - [ ] Has the global site description and keywords been added?
 - [ ] Has the global title tag been set?
@@ -59,12 +60,15 @@ assignees: ''
 - [ ] Have the site’s DNS settings been checked to ensure A and WWW records point to the new site? Where does the MX record point to? Does the client’s email still work? http://www.whatsmydns.net/#A/www.flowsa.com AND `dig a www.flowsa.com && dig mx www.flowsa.com`
 - [ ] Have you checked that emails from the server are received by the client email addresses?
 - [ ] Notify [Sabo Ndlovu](mailto:sabo@flowsa.com) of site going live so that billing can be started.
+- [ ] Make sure all licenses are purchased
 - [ ] SSL certificate
 - [ ] Automatic re-directs from HTTP to HTTPS
 - [ ] Has Postmark and DKIM "sender signature" been set up on the domain (to pass spam blocking)
 
 ### LIVE: After going live
 - [ ] Have you added the site to Uptime Robot?
+- [ ] 1 week after go live calendar entry with project manager to review traffic
+- [ ] 1 month after go live calendar entry with project manager to review traffic
 - [ ] Does the site have a Google site map?
 - [ ] Has the sitemap been added to Google webmaster tools?
 - [ ] Has Webmaster been verified?
