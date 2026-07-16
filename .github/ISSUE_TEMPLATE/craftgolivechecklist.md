@@ -14,10 +14,10 @@ assignees: ''
 - [ ] Have you added Tag Manager code on pages
 - [ ] Has analytics tag been added to tag manager?
 - [ ] Has any goal/event tracking required been setup?
-- [ ] Setup monthly notification, send to tiffany@flowsa.com
+- [ ] Setup monthly notification on Google Analytics - to go to the PM
 - [ ] Setup Google Webmaster Tools
-- [ ] Have relevant 301 redirects been created for key pages?
-- [ ] Check top 100 pages by traffic on Google Analytics and ensure each is 301 redirected or resolves to a correct page
+- [ ] Have relevant 301 redirects been created for key pages - if this is not a new website.
+- [ ] Check top 100 pages by traffic on Google Analytics and ensure each is 301 redirected or resolves to a correct page - if this is not a new website
 - [ ] Are 404 pages working properly
 - [ ] Has the global site description and keywords been added?
 - [ ] Has the global title tag been set?
@@ -26,33 +26,22 @@ assignees: ''
  
 ### LIVE: Performance
 
-- [ ] Has site been tested on Page Speed Google Insights?
+- [ ] Has site been tested on Page Speed Google Insights - not lower to score 80%?
 
-### LIVE: Forms
+### LIVE: Forms (if applicable)
 
-- [ ] Check sending and receiving addresses (if used)
+- [ ] Check sending and receiving email addresses (if used)
 - [ ] Has the thank you page been set up on the website?
 - [ ] Do all the enquiry/contact forms work?
 - [ ] Has the client acknowledged the receipt of the form?
 - [ ] Does forgot password work on /admin and does the email arrive?
-- [ ] Does the recaptcha work
+- [ ] Does the recaptcha work?
 
 ### LIVE: Member section (if applicable)
 
 - [ ] Have you checked the member registration forms - sign up, forgot password.
-
-### LIVE:   (if applicable)
-
-- [ ] Have the correct email addresses been set for notifications?
-- [ ] Have auto-reponders been set if appropriate?
-- [ ] Has a "Thank you" page been set up on the website?
-
-### LIVE: CraftCMS Specific  (if applicable)
-
-- [ ] Global variables - company meta data updated: phone number, social media accounts
-- [ ] Global variables: social network platforms are all set
-- [ ] Ensure Forgot Password is functioning as expected
-- [ ] Generate random password and send to IT for addition to LastPass
+- [ ] Auto-responder: Has the notification email (to the user) been set up to confirm the user resgistration?
+- [ ] Auto-responder: Has the client been notifed (via email to client) of the new registration?
 
 ### LIVE: Hosting / DNS  (if applicable)
 
@@ -65,7 +54,12 @@ assignees: ''
 - [ ] Automatic re-directs from HTTP to HTTPS
 - [ ] Has Postmark and DKIM "sender signature" been set up on the domain (to pass spam blocking)
 
-### LIVE: After going live
+### LIVE: After going live checks and tests
+- [ ] Global variables - company meta data updated: phone number, social media accounts
+- [ ] Global variables: social network platforms are all set
+- [ ] Ensure Forgot Password is functioning as expected
+- [ ] Generate random password and send to IT for addition to 1Password
+- [ ] Have the correct email addresses been set for notifications/enquiries, etc and tested with the recipient?
 - [ ] Have you added the site to Uptime Robot?
 - [ ] 1 week after go live calendar entry with project manager to review traffic
 - [ ] 1 month after go live calendar entry with project manager to review traffic
@@ -79,26 +73,18 @@ assignees: ''
 - [ ] Broken Link check
 - [ ] Cross-Browser Check (Chrome, Safari, and Firefox).
 
-### LIVE:  Campaign Monitor  (if applicable)
+
+### LIVE:  Campaign Monitor (if applicable)
 
 - [ ] Does the subscribe form work and log people’s details in the correct subscriber list?
 - [ ] Has thank you page been set up on the website?
 - [ ] Has DKIM "sender signature" been set up on the domain (to pass spam blocking)
 
-### Webflow Specific
 
-- [ ] Graph Image URL
-- [ ] Ensure favicon and Webclip have been set with the client's logo images 
-- [ ] Ensure custom code implementation.
-
-### Webflow LIVE: Design Consistency
-
-- [ ] Ensure all titles and paragraphs are styled to match the brand.
-- [ ] Utilized standard color names.
-- [ ] Margin and padding to match the design system.
-- [ ] Upload fonts as custom WOFF files or use Google's integrated font API.
-- [ ] Double-check all design elements for alignment, responsiveness
+### LIVE:  Postmark
+- [ ] Create Postmark server for client
+- [ ] Has DKIM "sender signature" been set up on the domain (to pass spam blocking)
 
 
 ### Not relevant
-Drag any checkboxes not relevant below and tick them
+Drag any checkboxes not relevant below.
