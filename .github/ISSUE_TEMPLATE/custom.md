@@ -1,6 +1,6 @@
 ---
-name: Website Go Live Checklist
-about: Website Go Live Checklist
+name: Craft Website Go Live Checklist
+about: Craft Website Go Live Checklist
 title: ''
 labels: ''
 assignees: ''
