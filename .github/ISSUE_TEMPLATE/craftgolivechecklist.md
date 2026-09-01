@@ -18,11 +18,13 @@ assignees: ''
 - [ ] Setup Google Webmaster Tools
 - [ ] Have relevant 301 redirects been created for key pages - if this is not a new website.
 - [ ] Check top 100 pages by traffic on Google Analytics and ensure each is 301 redirected or resolves to a correct page - if this is not a new website
+- [ ] Add GTM tag and safe guard on template for ghost traffic - check discussion [here](https://github.com/flowsa/flowhelpdesk/discussions/3161) 
 - [ ] Are 404 pages working properly
 - [ ] Has the global site description and keywords been added?
 - [ ] Has the global title tag been set?
 - [ ] Have any page specific description tags been added?
 - [ ] Have any page specific title tags been added?
+- [ ] User testing - get a team member to test general UX, links, page errors and forms etc
  
 ### LIVE: Performance
 
